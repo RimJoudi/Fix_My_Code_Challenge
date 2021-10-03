@@ -11,4 +11,3 @@ def status():
     """ Status of the web server
     """
     return jsonify({"status": "OK"})
-
